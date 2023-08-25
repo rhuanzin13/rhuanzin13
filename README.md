@@ -1,4 +1,11 @@
-### Hi there 👋
+Meu nome è Rhuan e sou aluno do 1 ano B 
+do ensino medio,estou criando este site para
+pensamento computacional 
+
+
+
+
+
 
 <!--
 **rhuanzin13/rhuanzin13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
