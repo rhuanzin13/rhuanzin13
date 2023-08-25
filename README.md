@@ -1,6 +1,6 @@
 Meu nome è Rhuan e sou aluno do 1 ano B 
 do ensino medio,estou criando este site para
-pensamento computacional 
+Pensamento computacional 
 
 
 
